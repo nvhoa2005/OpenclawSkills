@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "profiles": {
+    "google:default": {
+      "type": "api_key",
+      "provider": "google",
+      "key": "AIzaSyCpOvNBFgqZwrmAfBskJn5PRFWPN3sm4N4"
+    }
+  },
+  "bootstrapSeededAt": "2026-03-30T03:22:37.798Z",
+  "setupCompletedAt": "2026-03-30T03:25:18.897Z"
+}
